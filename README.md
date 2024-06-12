@@ -14,10 +14,12 @@ This vigilant Discord bot is dedicated to providing real-time updates on cryptoc
 *Commands and Functions:*
 
 1. `/ping`: Checks if the bot is active.
-2. `/list`: Lists all available cryptocurrency commands.
-3. `/bitcoin`: Fetches details about Bitcoin.
-4. `/ethereum`: Fetches details about Ethereum.
-5. `/{cryptoName}`: Fetches details about a particular cryptocurrency specified by `{cryptoName}`.
+2. `/help`: Guides through the available commands and its description![Screenshot (81)](https://github.com/JackSpar45/CryptoHawk/assets/118149520/22464fb2-6e8b-4746-8604-7fb432a1e0b8)
+
+3. `/list`: Lists all available cryptocurrency commands.
+4. `/bitcoin`: Fetches details about Bitcoin.
+5. `/ethereum`: Fetches details about Ethereum.
+6. `/{cryptoName}`: Fetches details about a particular cryptocurrency specified by `{cryptoName}`.
 
 
 
