@@ -4,9 +4,7 @@ const axios = require('axios');
 const { API_KEY } = require('../../../config.json');
 const API_URL = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest';
 const LOGO_URL = 'https://pro-api.coinmarketcap.com/v2/cryptocurrency/info'
-function capitalizeFirstLetter(string){
-      return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase() ;
-}
+
 module.exports = (cryptoName) => ({
     data: new SlashCommandBuilder()
     .setName(cryptoName)
