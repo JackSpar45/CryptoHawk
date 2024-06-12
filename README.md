@@ -10,7 +10,7 @@ This vigilant Discord bot is dedicated to providing real-time updates on cryptoc
 - JavaScript (Node.js): Used as the primary programming language.
 - Discord.js: JavaScript library for interacting with the Discord API.
 - CoinMarketCap API: External API for fetching cryptocurrency data.
-- 
+  
 **Commands and Functions:**
 
 1. `/ping`: Checks if the bot is active.
