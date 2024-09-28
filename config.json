@@ -2,5 +2,6 @@
   "token" : "Discord Token ID",
   "clientId" : " ",
   "guildId" : " ",
-  "API_KEY" : "API Key goes here"
+  "API_KEY" : "API Key goes here",
+  "NEWS_API_KEY" : "API Auth Key related to crypto news"
 }
