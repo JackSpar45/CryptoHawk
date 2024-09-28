@@ -11,7 +11,8 @@ module.exports = {
             {slNo:2, command:'/list    ', description:'Lists the available cryptocurrency commands'},
             {slNo:3, command:'/bitcoin ', description:'Fetches details about Bitcoin'},
             {slNo:4, command:'/ethereum', description:'Fetches details about Ethereum'},
-            {slNo:5, command:'/{cryptoName}', description:'Fetches details about a particular cryptocurrency'}];
+            {slNo:5, command:'/{cryptoName}', description:'Fetches details about a particular cryptocurrency'},
+            {slNo:6, command:'/news    ', description:'Fetches latest news articles related to cryptocurrency'} ];
        
             let helpMessage = '** Sl.No |  Command      |   Description**\n' ;
             helpMessage += '---------------------------------------------------------------------------------\n';
