@@ -34,7 +34,6 @@ This vigilant Discord bot is dedicated to providing real-time updates on cryptoc
 
 ![Screenshot (85)](https://github.com/JackSpar45/CryptoHawk/assets/118149520/325105e3-556d-4dc5-9b33-e2ddcfa8b6b3)
 ![Screenshot (86)](https://github.com/JackSpar45/CryptoHawk/assets/118149520/5bcccd2f-945d-4a3c-81ab-bbf85f9f5e93)
-![Screenshot (87)](https://github.com/JackSpar45/CryptoHawk/assets/118149520/870aa768-f0a0-441b-be6f-fa3876a09fde)
 
 7.`/news`: Fetches latest news articles related to cryptocurrency.
 
@@ -42,6 +41,6 @@ This vigilant Discord bot is dedicated to providing real-time updates on cryptoc
 ![Screenshot (98)](https://github.com/user-attachments/assets/21be8cce-8e41-4003-831b-dd942031d05e)
 ![Screenshot (99)](https://github.com/user-attachments/assets/be70d4c2-b2c6-47cc-8ee8-1b1e2e1a34e8)
 ![Screenshot (100)](https://github.com/user-attachments/assets/8da24a62-42c9-4c7c-b171-a5025ca8daa9)
-
+![Screenshot (87)](https://github.com/JackSpar45/CryptoHawk/assets/118149520/870aa768-f0a0-441b-be6f-fa3876a09fde)
 
 By leveraging this bot, users can conveniently access essential cryptocurrency information directly within the Discord server, facilitating faster decision-making and enhancing their overall trading experience.
